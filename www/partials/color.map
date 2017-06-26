@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../../source/partials/color.css",
+	"sources": [
+		"../../source/partials/color.scss"
+	],
+	"sourcesContent": [
+		"$primary: #131f48;\n$primary-alt: #232c68;\n$secondary: #fcb526;\n$secondary-alt: #ffc844;\n$secondary-dark: #9c6026;\n\n$text-primary: rgba(0,0,0,0.87);\n$text-secondary: rgba(0,0,0,0.54);\n$text-tertiary: rgba(0,0,0,0.38);\n\n$text-primary-inverse: rgba(255,255,255,0.99);\n$text-secondary-inverse: rgba(255,255,255,0.7);\n$text-tertiary-inverse: rgba(255,255,255,0.5);"
+	],
+	"mappings": "",
+	"names": []
+}

@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "../source/style.css",
+	"sources": [
+		"../source/style.scss"
+	],
+	"sourcesContent": [
+		"body {\n\tfont-family: sans-serif;\n}"
+	],
+	"mappings": ";AAAA,AAAA,IAAI,CAAC;EACJ,WAAW,EAAE,UAAW;CACxB",
+	"names": []
+}
